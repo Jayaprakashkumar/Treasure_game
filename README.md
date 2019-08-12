@@ -2,7 +2,7 @@
 Find the shortest path to the treasure using functional program : Clojure
 
 Compile the program:
-1. Run the clojure file in Intellij using REPL curvsive plugin
+1. Run the clojure file in the Intellij using REPL curvsive plugin
 
 Reference:
 1. https://practicalli.github.io/clojure/
