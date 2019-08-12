@@ -12,14 +12,15 @@ Reference:
 In this application, We have to find the path through '-' and reach the treasure at '@'. Whereas '#' are the obstacles. The game always start from top left '-'. The path will vary for different maps, the application must find the exact path in all the cases.
 
 For Instance: The map is given below
----#--###----
--#---#----##-
-####-#-#-#-##
----#---#-#---
--#-####---##-
--#------#----
--############
-------------@
+
+---#--###----                                                                                                                          
+-#---#----##-                                                                                                                            
+####-#-#-#-##                                                                                                                            
+---#---#-#---                                                                                                                          
+-#-####---##-                                                                                                                           
+-#------#----                                                                                                                           
+-############                                                                                                                           
+------------@                                                                                                                             
 
 
 
